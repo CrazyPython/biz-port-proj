@@ -8,10 +8,6 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
-iframe {
-  height: 40%;
-  width: 100%;
-}
 
 /* General & 'Reset' Stuff */
 
