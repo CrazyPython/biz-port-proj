@@ -9,8 +9,8 @@ body {
 }
 
 iframe {
-  height: 500dp;
-  width: 1000dp;
+  height: 40%;
+  width: 100%;
 }
 
 /* General & 'Reset' Stuff */
